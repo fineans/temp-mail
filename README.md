@@ -4,7 +4,7 @@ Just a tiny terminal app using the 1sec mail api that gives you a temporary mail
 
 ## 🔨 Setup
 
-clone the repo Resourcesgit clone https://github.com/fineans/temp-mail.git</kbd>
+clone the repo <kbd>git clone https://github.com/fineans/temp-mail.git</kbd>.
 You need Python 3. Install The modules from the python files using <kbd>pip install</kbd> or <kbd>pip3 install</kbd>.
 
 ## Usage
