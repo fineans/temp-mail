@@ -9,7 +9,7 @@ You need Python 3. Install The modules from the python files using <kbd>pip inst
 
 ## Usage
 
-Run the program with <kbd>python main.py</kbd> or <kbd>python main.py</kbd>. Chose tyour settings and chose a username in when prompted to.
+Run the program with <kbd>python main.py</kbd> or <kbd>python main.py</kbd>. Chose your settings and chose a username in when prompted to.
 
 ![Alt Text](https://github.com/fineans/temp-mail/blob/main/tempmail.gif)
 
