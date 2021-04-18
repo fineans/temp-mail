@@ -1,6 +1,6 @@
 # 📧 temp-mail
 
-Just a tiny terminal app using the 1sec mail api that gives you a temporary mail for free!
+• Just a tiny terminal app using the 1sec mail api that gives you a temporary mail for free •
 
 ## 🔨 Setup
 
