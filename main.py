@@ -13,18 +13,10 @@ domain = random.choice(domainList)
 
 def banner():
     print(r'''
-                         ''~``
-                        ( o o )
-+------------------.oooO--(_)--Oooo.------------------+
-|                                                     |
-|                    Temp Mail                        |
-|                  [by fineans]                       |
-|                                                     |
-|                    .oooO                            |
-|                    (   )   Oooo.                    |
-+---------------------\ (----(   )--------------------+
-                       \_)    ) /
-                             (_/
+
+                    Temp Mail                        
+                [by fineans/Harry]                   
+
     ''')
 
 def generateUserName():
