@@ -29,7 +29,6 @@ def extract():
     getDomain = re.search(r'domain=(.*)', newMail).group(1)
     return [getUserName, getDomain]
 
-# Got this from https://stackoverflow.com/a/43952192/13276219
 def print_statusline(msg: str):
     last_msg_length = len(print_statusline.last_msg) if hasattr(print_statusline, 'last_msg') else 0
     print(' ' * last_msg_length, end='\r')
